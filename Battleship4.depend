@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1565346616 source:c:\users\domin\desktop\c++\battleship4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Battleship.h"
+
+1565346749 c:\users\domin\desktop\c++\battleship4\battleship.h
+	<iostream>
+
+1565288810 source:c:\users\domin\desktop\c++\battleship4\utils.cpp
+	<iostream>
+	<cctype>
+	"Utils.h"
+
+1565288810 c:\users\domin\desktop\c++\battleship4\utils.h
+
+1565432026 source:c:\users\domin\desktop\c++\battleship4\battleship.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	"Battleship.h"
+	"Utils.h"
+
+1565432026 source:c:\users\domin\desktop\cpp\obiektowy_cpp\gry\battleship4\battleship.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	"Battleship.h"
+	"Utils.h"
+
+1565346749 c:\users\domin\desktop\cpp\obiektowy_cpp\gry\battleship4\battleship.h
+	<iostream>
+
+1565288810 c:\users\domin\desktop\cpp\obiektowy_cpp\gry\battleship4\utils.h
+
+1565346616 source:c:\users\domin\desktop\cpp\obiektowy_cpp\gry\battleship4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Battleship.h"
+
+1565288810 source:c:\users\domin\desktop\cpp\obiektowy_cpp\gry\battleship4\utils.cpp
+	<iostream>
+	<cctype>
+	"Utils.h"
+
